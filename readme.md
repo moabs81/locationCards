@@ -3,5 +3,5 @@ This mini-project consists of a simple card UI built with React. It is built wit
 
 A more detailed description is coming!
 ### To Do's
-[ ] Make More Responsive
-[ ] Add React Component Unit Testing
+- [ ] Make More Responsive
+- [ ] Add React Component Unit Testing
